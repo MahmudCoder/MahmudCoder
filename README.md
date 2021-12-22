@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmud</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Something](Cool😎)
+- 🔭 I’m currently working on **Something Cool😎**
 
 - 🌱 I’m currently learning **JavaScript, React, React Native, Note JS**
 
